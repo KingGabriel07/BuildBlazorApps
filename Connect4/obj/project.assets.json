@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriel king\\Documents\\Github\\BuildBlazorApps\\Connect4\\Connect4.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel king\\source\\repos\\Connect4\\Connect4.csproj",
       "projectName": "Connect4",
-      "projectPath": "C:\\Users\\Gabriel king\\Documents\\Github\\BuildBlazorApps\\Connect4\\Connect4.csproj",
+      "projectPath": "C:\\Users\\Gabriel king\\source\\repos\\Connect4\\Connect4.csproj",
       "packagesPath": "C:\\Users\\Gabriel king\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriel king\\Documents\\Github\\BuildBlazorApps\\Connect4\\obj\\",
+      "outputPath": "C:\\Users\\Gabriel king\\source\\repos\\Connect4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gabriel king\\AppData\\Roaming\\NuGet\\NuGet.Config",
