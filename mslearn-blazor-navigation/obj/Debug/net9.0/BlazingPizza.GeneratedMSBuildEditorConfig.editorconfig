@@ -9,47 +9,47 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazingPizza
 build_property.RootNamespace = BlazingPizza
-build_property.ProjectDir = C:\Users\Gabriel king\source\repos\mslearn-blazor-navigation\
+build_property.ProjectDir = C:\Users\Gabriel king\Documents\Github\BuildBlazorApps\mslearn-blazor-navigation\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Gabriel king\source\repos\mslearn-blazor-navigation
+build_property.MSBuildProjectDirectory = C:\Users\Gabriel king\Documents\Github\BuildBlazorApps\mslearn-blazor-navigation
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Gabriel king/source/repos/mslearn-blazor-navigation/App.razor]
+[C:/Users/Gabriel king/Documents/Github/BuildBlazorApps/mslearn-blazor-navigation/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gabriel king/source/repos/mslearn-blazor-navigation/Pages/Checkout.razor]
+[C:/Users/Gabriel king/Documents/Github/BuildBlazorApps/mslearn-blazor-navigation/Pages/Checkout.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gabriel king/source/repos/mslearn-blazor-navigation/Pages/Index.razor]
+[C:/Users/Gabriel king/Documents/Github/BuildBlazorApps/mslearn-blazor-navigation/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gabriel king/source/repos/mslearn-blazor-navigation/Pages/OrderDetails.Razor]
+[C:/Users/Gabriel king/Documents/Github/BuildBlazorApps/mslearn-blazor-navigation/Pages/OrderDetails.Razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJEZXRhaWxzLlJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gabriel king/source/repos/mslearn-blazor-navigation/Shared/ConfigurePizzaDialog.razor]
+[C:/Users/Gabriel king/Documents/Github/BuildBlazorApps/mslearn-blazor-navigation/Shared/ConfigurePizzaDialog.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbmZpZ3VyZVBpenphRGlhbG9nLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gabriel king/source/repos/mslearn-blazor-navigation/Shared/MainLayout.razor]
+[C:/Users/Gabriel king/Documents/Github/BuildBlazorApps/mslearn-blazor-navigation/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gabriel king/source/repos/mslearn-blazor-navigation/_Imports.razor]
+[C:/Users/Gabriel king/Documents/Github/BuildBlazorApps/mslearn-blazor-navigation/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gabriel king/source/repos/mslearn-blazor-navigation/Pages/Error.cshtml]
+[C:/Users/Gabriel king/Documents/Github/BuildBlazorApps/mslearn-blazor-navigation/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gabriel king/source/repos/mslearn-blazor-navigation/Pages/_Host.cshtml]
+[C:/Users/Gabriel king/Documents/Github/BuildBlazorApps/mslearn-blazor-navigation/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
